@@ -1,0 +1,78 @@
+export const products = [
+  {
+    id: "1",
+    quantity: 1,
+    name: "Steel Masala Box",
+    seller: "Ramesh Traders",
+    price: 199,
+    image: "/Images/product.jpg",
+     extraImage : [ 
+       "/Images/deodap1.webp",
+       "/Images/pro1.webp",
+       "/Images/deodap3.jpg",
+       "/Images/deodap4.webp",
+    ],
+      material: 'Sheesham Wood',
+  size: 'Medium',
+  height: '35',
+  width: '20',
+  description : " This handcrafted wooden lamp is made from premium Sheesham wood by artisans in Ahmedabad "
+  },
+  {id : "2",
+    quantity: 2,
+    name: "Silicone Scrubber",
+    seller: "Priya's Handicrafts",
+    price: 99,
+    image: "/Images/product.jpg",
+    extraImage : [ 
+       "/Images/deodap1.webp",
+       "/Images/pro4.webp",
+       "/Images/deodap3.jpg",
+       "/Images/deodap4.webp",
+    ],
+      material: 'Sheesham Wood',
+  size: 'Medium',
+  height: '35',
+  width: '20',
+  description : " This handcrafted wooden lamp is made from premium Sheesham wood by artisans in Ahmedabad "
+  },
+  {
+    id : "3",
+    quantity : 3,
+    name: "Storage Organizer",
+    seller: "Mahesh Electronics",
+    price: 299,
+    image: "/Images/product.jpg",
+     extraImage : [ 
+       "/Images/deodap1.webp",
+       "/Images/pro1.webp",
+       "/Images/deodap3.jpg",
+       "/Images/deodap4.webp",
+    ]
+    ,
+      material: 'Sheesham Wood',
+  size: 'Medium',
+  height: '35',
+  width: '20',
+  description : " This handcrafted wooden lamp is made from premium Sheesham wood by artisans in Ahmedabad "
+  },
+  {id : "4",
+    quantity :4,
+    name: "Prayer Beads",
+    seller: "Sunita Creations",
+    price: 149,
+    image: "/Images/product.jpg",
+    extraImage : [ 
+       "/Images/deodap1.webp",
+       "/Images/pro2.webp",
+       "/Images/deodap3.jpg",
+       "/Images/deodap4.webp",
+    ]
+    ,
+      material: 'Sheesham Wood',
+  size: 'Medium',
+  height: '35',
+  width: '20',
+  description : " This handcrafted wooden lamp is made from premium Sheesham wood by artisans in Ahmedabad "
+  },
+];
